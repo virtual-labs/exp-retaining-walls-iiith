@@ -1,1 +1,0 @@
-[Read more](http://bsa-iiith.vlabs.ac.in/exp9/Exp-9%20Retaining%20walls.pdf)

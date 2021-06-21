@@ -5,4 +5,3 @@ A wall designed with the purpose of keeping a level difference of the soil on it
 
 To determine the lateral pressure of the retaining wall.
 
-[Copy Link](http://bsa-iiith.vlabs.ac.in/exp9/Exp-9%20Retaining%20walls.pdf)

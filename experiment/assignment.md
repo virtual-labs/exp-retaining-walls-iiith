@@ -9,4 +9,3 @@
 **Q5**. What are the different types of wall structures that can be designed to resist earth pressure?
 
 
-[Read more](http://bsa-iiith.vlabs.ac.in/exp9/Exp-9%20Retaining%20walls.pdf)
