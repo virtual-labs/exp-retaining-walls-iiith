@@ -1,0 +1,1 @@
+- To determine the lateral pressure of the retaining wall.
