@@ -1,0 +1,52 @@
+[
+   {
+      "question":"1. The material retained or supported by the retaining structure is called __________",
+      "answers":{
+         "a":"Surcharge",
+         "b":"Support wall",
+         "c":"Backfill",
+         "d":"All the mentioned"
+      },
+      "correctAnswer":"c"
+   },
+   {
+      "question":"2. e position of the backfill lying above the horizontal plane at the top of wall is calle",
+      "answers":{
+         "a":"Active state",
+         "b":"Plasticity",
+         "c":"Surcharge",
+         "d":"Sliplines"
+      },
+      "correctAnswer":"c"
+   },
+   {
+      "question":"3. Cantilever retaining walls can safely be used for a height not more than",
+      "answers":{
+         "a":"3m",
+         "b":"4m",
+         "c":"5m",
+         "d":"6m"
+      },
+      "correctAnswer":"d"
+   },
+   {
+      "question":"4. or the design of retaining walls, the minimum factor of safety against overturning",
+      "answers":{
+         "a":"2",
+         "b":"1.4",
+         "c":"1.5",
+         "d":"3"
+      },
+      "correctAnswer":"b"
+   },
+   {
+      "question":"5. Below are the function of retaining wall except?",
+      "answers":{
+         "a":"Retain soil behind the wall",
+         "b":"Permanent structure of a building",
+         "c":"Control ground water permanently",
+         "d":"Prevent landsliding or overturning"
+      },
+      "correctAnswer":"a"
+   }
+]
