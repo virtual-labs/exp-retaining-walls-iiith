@@ -1,0 +1,42 @@
+[
+   {
+      "question":"1. Which one of the following is the correct statement about R.C. retaining wall",
+      "answers":{
+         "a":"toe slab and heel slab are provided with reinforcements at top face",
+         "b":"toe slab and heel slab are provided with reinforcement at bottom face",
+         "c":"toe slab is provided with reinforcement at top face and heel slab at bottom face",
+         "d":"toe slab is provided at bottom face and heel slab at bottom face"
+      },
+      "correctAnswer":"d"
+   },
+   {
+      "question":"2. All are the component of retainig wall except?",
+      "answers":{
+         "a":"Toe Slab",
+         "b":"Heel Slab",
+         "c":"Surcharge",
+         "d":"Stem"
+      },
+      "correctAnswer":"c"
+   },
+   {
+      "question":"3. The design of a retaining wall assumes that the retained earth",
+      "answers":{
+         "a":"is dry",
+         "b":"is free from moisture",
+         "c":"consists of granular particles",
+         "d":"all the above"
+      },
+      "correctAnswer":"d"
+   },
+   {
+      "question":"4. The thickness of base slab of a retaining wall generally provided, is",
+      "answers":{
+         "a":"width of the stem at the bottom",
+         "b":"one-third of the width of the stem at the bottom",
+         "c":"one fourth of the width of the steam at the bottom",
+         "d":"twice the width of the steam at the bottom"
+      },
+      "correctAnswer":"a"
+   }
+]
